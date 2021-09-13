@@ -3,7 +3,7 @@
 This package contains three DAT files for QC-LDPC code prototype matrix with block length n = 2304, 5016, 10008 respectively. Each DAT file consists of a line indicating code length and two 12-by-24 prototype matrices. 
 
 
-For more details about how to build a Construction D' lattice using QC-LDPC parity-check matrices and the encoding and decoding algorithms to be used in power-constrained channels, see my paper [arXiv:2102.04741 [cs.IT]](https://arxiv.org/abs/2102.04741). You are requested to cite the paper if you publish an academic paper basd on these codes. See LICENSE for more information.
+For more details about how to build a Construction D' lattice using QC-LDPC parity-check matrices and the encoding and decoding algorithms to be used in power-constrained channels, see our paper [Encoding and Decoding Construction D' Lattices for Power-Constrained Communications](https://ieeexplore.ieee.org/document/9518122) or https://arxiv.org/abs/2103.08263. You are requested to cite the paper if you publish an academic paper basd on these codes. See LICENSE for more information.
 
 -
 
